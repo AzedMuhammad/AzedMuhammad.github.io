@@ -5,7 +5,6 @@ import { useState } from "react";
 import Navbar from "./components/Navbar";
 import Homepage from "./pages/Homepage";
 import About from "./pages/About";
-import Education from "./components/EducationCard";
 import EducationAbout from "./pages/EducationAbout";
 import Footer from "./components/Footer";
 import TechStack from "./pages/TechStack";
